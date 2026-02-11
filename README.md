@@ -38,4 +38,4 @@ Objective:
 
 - Get to the end of the level without hitting any obstacles and win the game!
 
-* I Hope you like this little fun game *
+I Hope you like this little fun game 
